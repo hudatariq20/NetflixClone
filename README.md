@@ -7,7 +7,7 @@ This project is a UI clone of Netflix, built using Flutter. The application mimi
 # Features
 * **Netflix-Like UI**: A highly accurate clone of the Netflix user interface, including the iconic dark theme, carousels, and movie posters.
 * **Scroll Position Management**: Utilizes Cubit to retain scroll positions across different sections, providing a smooth navigation experience when moving between pages.
-* **Dynamic Carousels**: Display rows of movies and shows, similar to Netflix's categories like "Trending Now," "Popular on Netflix," and more.
+* **Dynamic Carousels**: Display rows of movies and shows, similar to Netflix's categories like "Trending Now," "Netflix Originals," and more.
 * **Interactive Navigation**: Supports easy navigation through the app's different sections, similar to the Netflix app, including the home screen, search, and categories.
 
 
