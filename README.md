@@ -15,6 +15,8 @@ This project is a UI clone of Netflix, built using Flutter. The application mimi
 ![image](https://github.com/user-attachments/assets/a7ede6a6-5923-434b-ac20-7f6c18e6f97f)
 ![image](https://github.com/user-attachments/assets/4e69d626-b32a-42fd-9667-b65a22fac9cf)
 ![image](https://github.com/user-attachments/assets/96348385-d393-48ec-b5b9-74ceb0797ca1)
+![image](https://github.com/user-attachments/assets/d9999dcb-dd32-4f10-b1b6-b0afc45abba5)
+
 
 
 
